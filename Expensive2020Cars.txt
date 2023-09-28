@@ -1,0 +1,2 @@
+Car{id=3, make='Ford', model='F-150', yearOfManufacture=2020, color='Silver', price=350000.0, registrationNumber='456'}
+Car{id=5, make='BMW', model='Series 3', yearOfManufacture=2020, color='White', price=200000.0, registrationNumber='555'}

@@ -1,0 +1,3 @@
+Car{id=1, make='Toyota', model='Camry', yearOfManufacture=2019, color='Blue', price=250000.0, registrationNumber='123'}
+Car{id=4, make='Nissan', model='Altima', yearOfManufacture=2015, color='Black', price=150000.0, registrationNumber='111'}
+Car{id=6, make='Tesla', model='Model 3', yearOfManufacture=2021, color='Silver', price=300000.0, registrationNumber='101010'}
